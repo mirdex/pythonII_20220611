@@ -20,3 +20,4 @@
 #### 課程大綱
 
 - [1. 函數](https://mirdex.github.io/pythonII_20220611/7.%20函數_Q.slides.html)
+- [2. 類別](https://mirdex.github.io/pythonII_20220611/8.%20類別_Q.slides.html)
