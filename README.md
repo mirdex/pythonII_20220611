@@ -22,3 +22,4 @@
 - [1. 函數](https://mirdex.github.io/pythonII_20220611/7.%20函數_Q.slides.html)
 - [2. 類別](https://mirdex.github.io/pythonII_20220611/8.%20類別_Q.slides.html)
 - [3. 生命週期](https://mirdex.github.io/pythonII_20220611/9.%20變數與生命週期.slides.html)
+- [4. 例外處理](https://mirdex.github.io/pythonII_20220611/10.%20例外處理.slides.html)
