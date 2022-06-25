@@ -24,3 +24,4 @@
 - [3. 生命週期](https://mirdex.github.io/pythonII_20220611/9.%20變數與生命週期.slides.html)
 - [4. 例外處理](https://mirdex.github.io/pythonII_20220611/10.%20例外處理.slides.html)
 - [5. python basic reivew](https://mirdex.github.io/pythonII_20220611/0.%20Python前言(Q).slides.html)
+- [6. module develop](https://mirdex.github.io/pythonII_20220611/1.%20模組開發(Q).slides.html)
