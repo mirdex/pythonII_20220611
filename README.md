@@ -27,3 +27,4 @@
 - [6. module develop](https://mirdex.github.io/pythonII_20220611/1.%20模組開發(Q).slides.html)
 - [7. 檔案處理一](https://mirdex.github.io/pythonII_20220611/2.%20檔案處理(一)(Q).slides.html)
 - [8. 檔案處理二](https://mirdex.github.io/pythonII_20220611/3.1%20檔案處理Sim(二)(Q).slides.html)
+- [9. Numpy Basic](https://mirdex.github.io/pythonII_20220611/4.%20NumPy(一)(Q).slides.html)
