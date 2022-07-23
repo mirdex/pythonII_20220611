@@ -30,3 +30,4 @@
 - [9. Numpy Basic](https://mirdex.github.io/pythonII_20220611/4.%20NumPy(一)(Q).slides.html)
 - [10. Numpy Advance](https://mirdex.github.io/pythonII_20220611/5.%20NumPy(二)(Q).slides.html)
 - [11. Pandas Basic](https://mirdex.github.io/pythonII_20220611/6.%20Pandas(一)(Q).slides.html)
+- [12. Pandas Advance](https://mirdex.github.io/pythonII_20220611/7.%20Pandas(二)(Q).slides.html)
